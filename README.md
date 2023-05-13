@@ -1,1 +1,3 @@
-# InsampleCurriculumLearning
+# In-sample Curriculum Learning by Sequence Completion for Natural Language Generation
+
+This paper has been accepted by ACL2023. More details is coming soon...
